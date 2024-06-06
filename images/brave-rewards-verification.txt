@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: acexswaroop.github.io
+Token: 3ffd733d10b5bbab77e1cb074a39c6d9c6fc4978c662b64bd25c5d4ac5ce992b

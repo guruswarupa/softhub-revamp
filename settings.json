@@ -1,0 +1,8 @@
+{
+    "package_managers": {
+        "Winget": true,
+        "Chocolatey": false,
+        "Scoop": false
+    },
+    "auto_update": true
+}

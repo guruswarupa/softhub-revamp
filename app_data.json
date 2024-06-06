@@ -1,0 +1,729 @@
+[
+    {
+      "name": "AnyDesk",
+      "icon": "images/unnamed.png",
+      "description": "AnyDesk's high-performance Remote Desktop Software enables latency-free Desktop Sharing, stable Remote Control and fast and secure data transmission between devices.",
+      "package": "AnyDeskSoftwareGmbH.AnyDesk",
+      "category": "Utilities apps",
+      "packman":"winget"
+    },
+    {
+      "name": "Brave",
+      "icon": "images\\Brave_lion_icon.svg.png",
+      "description": "Brave is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. Brave is a privacy-focused browser, which automatically blocks online advertisements and website trackers in its default settings. It also provides users the choice to turn on optional ads that pay users for their attention in the form of Basic Attention Tokens (BAT) cryptocurrency.",
+      "package": "Brave.Brave",
+      "category": "Web Browsers",
+      "packman":"winget"
+  },
+  {
+      "name": "Firefox",
+      "icon": "images\\Firefox_logo,_2017.svg.png",
+      "description": "Mozilla Firefox, or simply Firefox, is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. It uses the Gecko rendering engine to display web pages, which implements current and anticipated web standards. In November 2017, Firefox began incorporating new technology under the code name Quantum to promote parallelism and a more intuitive user interface.",
+      "package": "Mozilla.Firefox",
+      "category": "Web Browsers",
+      "packman":"winget"
+  },
+  {
+      "name": "LibreWolf",
+      "icon": "images\\LibreWolf_icon.svg.png",
+      "description": "This project is a custom and independent version of Firefox, with the primary goals of privacy, security and user freedom. LibreWolf is designed to increase protection against tracking and fingerprinting techniques, while also including a few security improvements.",
+      "package": "Librewolf.Librewolf",
+      "category": "Web Browsers",
+      "packman":"winget"
+  },
+  {
+      "name": "Tor",
+      "icon": "images\\Tor_Browser_icon.svg.png",
+      "description": "Tor, short for The Onion Router, is free and open-source software for enabling anonymous communication. It directs Internet traffic through a free, worldwide, volunteer overlay network, consisting of more than seven thousand relays, to conceal a user's location and usage from anyone performing network surveillance or traffic analysis. Using Tor makes it more difficult to trace a user's Internet activity. Tor's intended use is to protect the personal privacy of its users, as well as their freedom and ability to communicate confidentially through IP address anonymity using Tor exit nodes.",
+      "package": "TorProject.TorBrowser",
+      "category": "Web Browsers",
+      "packman":"winget"
+  },
+  {
+      "name": "Vivaldi",
+      "icon": "images\\Vivaldi_web_browser_logo.svg.png",
+      "description": "Vivaldi is a user-friendly browser designed to provide customizable browsing experiences. With built-in navigation and UI customization tools, users can customize Vivaldi any way they want.",
+      "package": "VivaldiTechnologies.Vivaldi",
+      "category": "Web Browsers",
+      "packman":"winget"
+  },
+  {
+      "name": "Chrome",
+      "icon": "images\\Google_Chrome_icon_(February_2022).svg.png",
+      "description": "Google Chrome is a cross-platform web browser developed by Google. It was first released in 2008 for Microsoft Windows, built with free software components from Apple WebKit and Mozilla Firefox. Versions were later released for Linux, macOS, iOS, and also for Android, where it is the default browser.",
+      "package": "Google.Chrome",
+      "category": "Web Browsers",
+      "packman":"winget"
+  },
+  {
+      "name": "Microsoft Edge",
+      "icon": "images\\Microsoft_Edge_Dev_Icon_(2019).svg.png",
+      "description": "Microsoft Edge is a proprietary, cross-platform web browser created by Microsoft. It was first released in 2015 as part of Windows 10 and Xbox One and later ported to other platforms as a fork of Google's Chromium open-source project.",
+      "package": "Microsoft.Edge.Dev",
+      "category": "Web Browsers",
+      "packman":"winget"
+  },
+  {
+      "name": "Opera GX",
+      "icon": "images\\Opera_GX_Icon.svg.png",
+      "description": "Opera is a multi-platform web browser developed by its namesake company Opera. The browser is based on Chromium, but distinguishes itself from other Chromium-based browsers (Chrome, Edge, etc.) through its user interface and other features.",
+      "package": "Opera.OperaGX",
+      "category": "Web Browsers",
+      "packman":"winget"
+  },
+  {
+      "name": "Chromium",
+      "icon": "images\\Chromium_Logo.svg.png",
+      "description": "Chromium is a free and open-source web browser project, mainly developed and maintained by Google. This codebase provides the vast majority of code for the Google Chrome browser, which is proprietary software and has some additional features.",
+      "package": "eloston.ungoogled-chromium",
+      "category": "Web Browsers",
+      "packman":"winget"
+  },
+  {
+      "name": "Discord",
+      "icon": "images\\636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png",
+      "description": "Discord is a free communications app that lets you share voice, video, and text chat with friends, game communities, and developers. It has hundreds of millions of users, making it one of the most popular ways to connect with people online.",
+      "package": "Discord.Discord",
+      "category": "Communication Apps",
+      "packman":"winget"
+  },
+  {
+      "name": "Microsoft Teams",
+      "icon": "images\\Microsoft_Office_Teams.png",
+      "description": "Microsoft Teams is the ultimate messaging app for your organization—a workspace for real-time collaboration and communication, meetings, file and app sharing, and even the occasional emoji! All in one place, all in the open, all accessible to everyone.",
+      "package": "Microsoft.Teams",
+      "category": "Communication Apps",
+      "packman":"winget"
+  },
+  {
+      "name": "Skype",
+      "icon": "images\\174869.png",
+      "description": "Skype is software that enables the world's conversations. Millions of individuals and businesses use Skype to make free video and voice one-to-one and group calls, send instant messages and share files with other people on Skype.",
+      "package": "Microsoft.Skype",
+      "category": "Communication Apps",
+      "packman":"winget"
+  },
+  {
+      "name": "Zoom",
+      "icon": "images\\5e8ce423664eae0004085465.png",
+      "description": "Zoom is a communications platform that allows users to connect with video, audio, phone, and chat. Using Zoom requires an internet connection and a supported device. Most new users will want to start by creating an account and downloading the Zoom Client for Meetings.",
+      "package": "Zoom.Zoom",
+      "category": "Communication Apps",
+      "packman":"winget"
+  },
+  {
+    "name": "Slack",
+    "icon": "images\\2111615.png",
+    "description": "Slack is a messaging app for business that connects people to the information that they need. By bringing people together to work as one unified team, Slack transforms the way that organisations communicate.",
+    "package": "SlackTechnologies.Slack",
+    "category": "Communication Apps",
+    "packman":"winget"
+},
+{
+    "name": "Telegram",
+    "icon": "images\\telegram-logo-AD3D08A014-seeklogo.com.png",
+    "description": "Telegram is a messaging app with a focus on speed and security, it's super-fast, simple and free. You can use Telegram on all your devices at the same time — your messages sync seamlessly across any number of your phones, tablets or computers.",
+    "package": "Telegram.TelegramDesktop",
+    "category": "Communication Apps",
+    "packman":"winget"
+},
+{
+    "name": "Viber",
+    "icon": "images\\2111705.png",
+    "description": "Viber is a VoIP and instant messaging application with cross-platform capabilities that allows users to exchange audio and video calls, stickers, group chats, and instant voice and video messages. It Is a product of Rakuten Viber, a multinational internet company headquartered in Setagaya-ku, Tokyo, Japan.",
+    "package": "Viber.Viber",
+    "category": "Communication Apps",
+    "packman":"winget"
+},
+{
+    "name": "WhatsApp",
+    "icon": "images\\1753788.png",
+    "description": "WhatsApp is a free cross-platform messaging service. It lets users of iPhone and Android smartphones and Mac and Windows PC call and exchange text, photo, audio and video messages with others across the globe for free, regardless of the recipient's device.",
+    "package": "WhatsApp.WhatsApp",
+    "category": "Communication Apps",
+    "packman":"winget"
+},
+{
+    "name": "Signal",
+    "icon": "images\\4423638.png",
+    "description": "Signal is an end-to-end-encrypted instant messaging and SMS app. Users can send direct or group messages, photos, and voice messages across multiple devices. The key advantage that it offers over similar apps is a strong focus on security and privacy.",
+    "package": "OpenWhisperSystems.Signal",
+    "category": "Communication Apps"
+},
+{
+    "name": "Messenger",
+    "icon": "images\\Facebook-Messenger-Icon-PNG-Clipart-Background.png",
+    "description": "Messenger is used to send messages and exchange photos, videos, stickers, audio, and files, and also react to other users' messages and interact with bots. The service also supports voice and video calling.",
+    "package": "Facebook.Messenger",
+    "category": "Communication Apps",
+    "packman":"winget"
+},
+{
+    "name": "LINE",
+    "icon": "images\\124027.png",
+    "description": "LINE is a communications application for all kinds of devices, including smartphones, PCs, and tablets. One can use this app to communicate via texts, images, video, audio, and more. LINE also supports VoIP calling, and both audio and video conferencing.",
+    "package": "LINE.LINE",
+    "category": "Communication Apps",
+    "packman":"winget"
+},
+{
+    "name": "Snapchat",
+    "icon": "images\\snapchat-logo-png-0.png",
+    "description": "Snapchat is a mobile app that allows users to send and receive self-destructing photos and videos. Photos and videos taken with the app are called snaps. Snapchat uses the device's camera to capture snaps and Wi-Fi technology to send them.",
+    "package": "9PF9RTKMMQ69",
+    "category": "Communication Apps",
+    "packman":"winget"
+},
+{
+    "name": "imo",
+    "icon": "images\\1091859.png",
+    "description": "imo is a proprietary audio/video calling and instant messaging software service. It allows sending music, video, PDFs and other files, along with various free stickers. It supports encrypted group video and voice calls with up to 20 participants.",
+    "package": "9NBLGGH4NZX6",
+    "category": "Communication Apps",
+    "packman":"winget"
+},
+{
+    "name": "Jitsi",
+    "icon": "images\\jitsi-icon.png",
+    "description": "Jitsi Meet lets you stay in touch with all your teams, be they family, friends, or colleagues. Instant video conferences, efficiently adapting to your scale. Unlimited users: There are no artificial restrictions on the number of users or conference participants.",
+    "package": "Jitsi.Meet",
+    "category": "Communication Apps",
+    "packman":"winget"
+},
+{
+    "name": "Git",
+    "icon": "images\\Git-Icon-1788C.png",
+    "description": "Git is a free and open source distributed code management and Version control system that is distributed under the GNU General Public License version 2. In addition to software version control, Git is used for other applications including configuration management and content management.",
+    "package": "Git.Git",
+    "category": "Development Tools",
+    "packman":"winget"
+},
+{
+    "name": "GitHub Desktop",
+    "icon": "images\\768px-Github-desktop-logo-symbol.svg.png",
+    "description": "GitHub Desktop is an application that enables you to interact with GitHub using a GUI instead of the command line or a web browser. GitHub Desktop encourages you and your team to collaborate using best practices with Git and GitHub.",
+    "package": "GitHub.GitHubDesktop",
+    "category": "Development Tools",
+    "packman":"winget"
+},
+{
+    "name": "JetBrains Toolbox",
+    "icon": "images\\toolbox_logo_300x300.png",
+    "description": "It offers free community versions of our popular Python and Java integrated development environments. It provides tools for learning Python, Java, and Kotlin, designed by professional developers.",
+    "package": "JetBrains.Toolbox",
+    "category": "Development Tools",
+    "packman":"winget"
+},
+{
+  "name": "Python",
+  "icon": "images\\5968350.png",
+  "description": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems. ",
+  "package": "9PJPW5LDXLZ5",
+  "category": "Programming Languages",
+  "packman":"winget"
+},
+{
+  "name": "Visual Studio Code",
+  "icon": "images\\Visual_Studio_Code_1.35_icon.svg.png",
+  "description": "Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. ",
+  "package": "Microsoft.VisualStudioCode",
+  "category": "Integrated Development Environments"
+},
+{
+  "name": "VSCodium",
+  "icon": "images\\i7zov9ca3ts71.png",
+  "description": "VSCodium is a community-driven, freely-licensed binary distribution of Microsoft's editor VS Code, a multiplatform and multi langage source code editor. ",
+  "package": "VSCodium.VSCodium",
+  "category": "Integrated Development Environments",
+  "packman":"winget"
+},
+{
+  "name": "Node.js",
+  "icon": "images\\5968322.png",
+  "description": "Node.js (Node) is an open source, cross-platform runtime environment for executing JavaScript code. Node is used extensively for server-side programming, making it possible for developers to use JavaScript for client-side and server-side code without needing to learn an additional language. ",
+  "package": "OpenJS.NodeJS",
+  "category": "Programming Languages",
+  "packman":"winget"
+},
+{
+  "name": "Rust",
+  "icon": "images\\Rust_programming_language_black_logo.svg.png",
+  "description": "Rust emphasizes performance, type safety, and concurrency. Rust enforces memory safety—that is, that all references point to valid memory—without requiring the use of a garbage collector or reference counting present in other memory-safe languages. ",
+  "package": "Rustlang.Rust.GNU",
+  "category": "Programming Languages",
+  "packman":"winget"
+},
+{
+  "name": "Visual Studio",
+  "icon": "images\\Visual_Studio_Icon_2022.svg.png",
+  "description": "Visual Studio 2022 is the best Visual Studio ever. Our first 64-bit IDE makes it easier to work with even bigger projects and more complex workloads. The stuff you do every day—like typing code and switching branches—feels more fluid more responsive. ",
+  "package": "Microsoft.VisualStudio.2022.Community-Preview",
+  "category": "Integrated Development Environments",
+  "packman":"winget"
+},
+{
+  "name": "Sublime Text",
+  "icon": "images\\download.png",
+  "description": "Sublime Text is an application development software that helps businesses manage code refactoring, debugging, multi-monitor editing, syntax highlighting, and more from within a unified platform. ",
+  "package": "SublimeHQ.androidstudioText.4",
+  "category": "Integrated Development Environments",
+  "packman":"winget"
+},
+{
+  "name": "Android Studio",
+  "icon": "images\\android-studio-icon-486x512-zp9um7zl.png",
+  "description": "Android Studio is the official integrated development environment (IDE) for Android application development. It is based on the IntelliJ IDEA, a Java integrated development environment for software, and incorporates its code editing and developer tools. ",
+  "package": "Google.AndroidStudio",
+  "category": "Integrated Development Environments",
+  "packman":"winget"
+},
+{
+  "name": "Xamarin",
+  "icon": "images\\download1.png",
+  "description": "Xamarin is an abstraction layer that manages communication of shared code with underlying platform code. Xamarin runs in a managed environment that provides conveniences such as memory allocation and garbage collection. Xamarin enables developers to share an average of 90% of their application across platforms. ",
+  "package": "9NBLGGH0FF9K",
+  "category": "Integrated Development Environments",
+  "packman":"winget"
+},
+{
+  "name": "Unity",
+  "icon": "images\\5969294.png",
+  "description": "Unity gives users the ability to create games and experiences in both 2D and 3D, and the engine offers a primary scripting API in C# using Mono, for both the Unity editor in the form of plugins, and games themselves, as well as drag and drop functionality. ",
+  "package": "Unity.Unity.2022",
+  "category": "Game Development",
+  "packman":"winget"
+},
+{
+  "name": "Blender",
+  "icon": "images\\7c3abb1e942ffcdb9a64676a0af8c65c0d4b4497.png",
+  "description": "Blender is the Free and Open Source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, sculpting, rigging, 3D and 2D animation, simulation, rendering, compositing, motion tracking and video editing. ",
+  "package": "BlenderFoundation.Blender",
+  "category": "3D Modeling and Animation",
+  "packman":"winget"
+},
+{
+  "name": "Atom",
+  "icon": "images\\21752.png",
+  "description": "Atom is a free and open-source text and source code editor developed by GitHub (Atom – A Hackable Text and Source Code Editor for Linux). Its developers call it a hackable text editor for the 21st Century (Atom 1.0). ",
+  "package": "GitHub.Atom",
+  "category": "Integrated Development Environments",
+  "packman":"winget"
+},
+{
+  "name": "Audacity",
+  "icon": "images\\Audacity_Logo_nofilter.svg.png",
+  "description": "Audacity is a free, easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems. The interface is translated into many languages. You can use Audacity to: Record live audio. Record computer playback on any Windows Vista or later machine. ",
+  "package": "Audacity.Audacity",
+  "category": "Audio Editing",
+  "packman":"winget"
+},
+{
+  "name": "GIMP",
+  "icon": "images\\The_GIMP_icon_-_gnome.svg.png",
+  "description": "GIMP is an acronym for GNU Image Manipulation Program. It is a freely distributed program for such tasks as photo retouching, image composition and image authoring. It has many capabilities. ",
+  "package": "GIMP.GIMP",
+  "category": "Graphic Design",
+  "packman":"winget"
+},
+{
+  "name": "Kdenlive",
+  "icon": "images\\icon_12.png",
+  "description": "Kdenlive is an open source video editor. The project was started around 2003. Kdenlive is built on Qt and the KDE Frameworks libraries. Most of the video processing is done by the MLT Framework, which relies on many other open source projects like FFmpeg, frei0r, movit, ladspa, sox, etc… ",
+  "package": "KDE.Kdenlive",
+  "category": "Graphic Design",
+  "packman":"winget"
+},
+{
+  "name": "obsstudio",
+  "description": "Open Broadcaster Software, or OBS, is a free and open source solution for offline video recording and live streaming that is Mac and Windows compliant. With an open canvas approach to video creation this tool can mix a variety of audio and video sources to a single output for creative video and broadcast applications.",
+  "package": "OBSProject.OBSStudio",
+  "category": "Video Recording",
+  "icon": "images/768px-OBS_Studio_Logo.svg.png",
+  "packman":"winget"
+},
+{
+  "name": "golang",
+  "description": "Go (also called Golang or Go language) is an open source programming language used for general purpose. Go was developed by Google engineers to create dependable and efficient software. Most similarly modeled after C, Go is statically typed and explicit.",
+  "package": "GoLang.Go.1.19",
+  "category": "Programming Languages",
+  "icon": "images/golang-icon-398x512-eygvdisi.png",
+  "packman":"winget"
+},
+{
+  "name": "swift",
+  "description": "Swift is a powerful and intuitive programming language for iOS, iPadOS, macOS, tvOS, and watchOS. Writing Swift code is interactive and fun, the syntax is concise yet expressive, and Swift includes modern features developers love. Swift code is safe by design and produces software that runs lightning-fast.",
+  "package": "Swift.Toolchain",
+  "category": "Programming Languages",
+  "icon": "images/5968371.png",
+  "packman":"winget"
+},
+{
+  "name": "Java JRE",
+  "description": "The Java Runtime Environment (JRE) is software that Java programs require to run correctly. Java is a computer language that powers many current web and mobile applications. The JRE is the underlying technology that communicates between the Java program and the operating system.",
+  "package": "Oracle.JavaRuntimeEnvironment",
+  "category": "Development Tools",
+  "icon": "images/java-43-569305-1.png",
+  "packman":"winget"
+},
+{
+  "name": "hwinfo",
+  "description": "HWiNFO is an all-in-one solution for hardware analysis and monitoring supporting a broad range of OSes (DOS, Microsoft Windows 95 - Windows 11, WinPE) and platforms (i8086 - Xeon Platinum). Latest components supported.",
+  "package": "REALiX.HWiNFO",
+  "category": "System Utilities",
+  "icon": "images/hwinfo-icon-512x512-8ybzko3v.png",
+  "packman":"winget"
+},
+{
+  "name": "coretemp",
+  "description": "Core Temp is a compact, no fuss, small footprint, yet powerful program to monitor processor temperature and other vital information. What makes Core Temp unique is the way it works. It is capable of displaying a temperature of each individual core of every processor in your system!",
+  "package": "ALCPU.CoreTemp",
+  "category": "System Utilities",
+  "icon": "images/34454443.png",
+  "packman":"winget"
+},
+{
+  "name": "sevenzip",
+  "description": "7-Zip is a free and open-source file archiver, a utility used to place groups of files within compressed containers known as archives. It is developed by Igor Pavlov and was first released in 1999. 7-Zip has its own archive format called 7z, but can read and write several others.",
+  "package": "7zip.7zip",
+  "category": "File Compression",
+  "icon": "images/1280px-7-Zip_Icon.svg.png",
+  "packman":"winget"
+},
+{
+  "name": "anydesk",
+  "description": "AnyDesk's high-performance Remote Desktop Software enables latency-free Desktop Sharing, stable Remote Control and fast and secure data transmission between devices.",
+  "package": "AnyDeskSoftwareGmbH.AnyDesk",
+  "category": "Remote Desktop",
+  "icon": "images/unnamed.png",
+  "packman":"winget"
+},
+{
+  "name": "cpuz",
+  "description": "CPU-Z is a freeware that gathers information on some of the main devices of your system : Processor name and number, codename, process, package, cache levels. Mainboard and chipset. Memory type, size, timings, and module specifications (SPD). Real time measurement of each core's internal frequency, memory frequency.",
+  "package": "CPUID.CPU-Z",
+  "category": "System Monitoring",
+  "icon": "images/CPU-Z_Icon.svg.png",
+  "packman":"winget"
+},
+{
+  "name": "etcher",
+  "description": "balenaEtcher (formerly known as just Etcher) is a free and open-source utility used for writing image files such as .iso and .img files, as well as zipped folders onto storage media to create live SD cards and USB flash drives. It is developed by Balena, and licensed under Apache License 2.0.",
+  "package": "Balena.Etcher",
+  "category": "Disk Imaging",
+  "icon": "images/avatar.png",
+  "packman":"winget"
+},
+{
+  "name": "gpuz",
+  "description": "TechPowerUp GPU-Z (or just GPU-Z) is a lightweight utility designed to provide information about video cards and GPUs. The program displays the specifications of Graphics Processing Unit (often shortened to GPU) and its memory; also displays temperature, core frequency, memory frequency, GPU load and fan speeds.",
+  "package": "TechPowerUp.GPU-Z",
+  "category": "System Monitoring",
+  "icon": "images/gpu_z_icon_by_pitmankeks_de0lyld-fullview.png",
+  "packman":"winget"
+  },
+  {
+  "name": "revouninstaller",
+  "description": "Revo Uninstaller acts as both a replacement and a supplement to the built-in functionality in Windows by first running the built-in uninstaller for the program, and then scanning for leftover data afterwards, making it your best choice when it comes to completely remove stubborn programs, temporary files, and other unnecessary program data that is left behind after the standard uninstall process.",
+  "package": "RevoUninstaller.RevoUninstaller",
+  "category": "System Utilities",
+  "icon": "images/Revouninstallerpro_icon.png",
+  "packman":"winget"
+  },
+  {
+  "name": "powertoys",
+  "description": "Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows experience for greater productivity.",
+  "package": "Microsoft.PowerToys",
+  "category": "Productivity",
+  "icon": "images/2020_PowerToys_Icon.svg.png",
+  "packman":"winget"
+  },
+  {
+  "name": "autohotkey",
+  "description": "AutoHotkey is a free and open-source custom scripting language for Microsoft Windows, initially aimed at providing easy keyboard shortcuts or hotkeys, fast macro-creation and software automation that allows users of most levels of computer skill to automate repetitive tasks in any Windows application.",
+  "package": "Lexikos.AutoHotkey",
+  "category": "Automation",
+  "icon": "images/sBnPQRG.png",
+  "packman":"winget"
+  },
+  {
+  "name": "bitwarden",
+  "description": "Generate, consolidate, and autofill strong and secure passwords for all your accounts. Bitwarden gives you power to create and manage unique passwords, so you can strengthen privacy and boost productivity online from any device or location.",
+  "package": "Bitwarden.Bitwarden",
+  "category": "Security",
+  "icon": "images/1200x630bb.png",
+  "packman":"winget"
+  },
+  {
+  "name": "everythingsearch",
+  "description": "Everything is a search engine for Windows that replaces ordinary Windows search with a considerably faster one. Unlike Windows search, Everything initially displays every file and folder on your computer. You can type in a search filter to limit what files and folders are displayed.",
+  "package": "voidtools.Everything",
+  "category": "File Management",
+  "icon": "images/dbc1fc0d2b9e238f5863eb19ef214629.png",
+  "packman":"winget"
+  },
+  {
+  "name": "flux",
+  "description": "Flux (pronounced flux) is a cross-platform computer program that adjusts a display's color temperature according to location and time of day, offering functional respite for the eyes. The program is designed to reduce eye strain during night-time use, helping to reduce disruption of sleep patterns.",
+  "package": "flux.flux",
+  "category": "Utilities",
+  "icon": "images/flux-icon-big.png",
+  "packman":"winget"
+  },
+  {
+  "name": "steam",
+  "description": "Steam is a video game digital distribution service and storefront by Valve. It was launched as a software client in September 2003 as a way for Valve to provide automatic updates for their games, and expanded to distributing and offering third-party game publishers' titles in late 2005.",
+  "package": "Valve.Steam",
+  "category": "Gaming",
+  "icon": "images/Steam_icon_logo.svg.png",
+  "packman":"winget"
+  },
+  {
+  "name": "EpicGames",
+  "description": "Founded in 1991, Epic Games is an American company founded by CEO Tim Sweeney. The company is headquartered in Cary, North Carolina and has more than 40 offices worldwide. Today Epic is a leading interactive entertainment company and provider of 3D engine technology.",
+  "package": "EpicGames.EpicGamesLauncher",
+  "category": "Gaming",
+  "icon": "images/epic-games-icon-512x512-7qpmojcd.png",
+  "packman":"winget"
+  },
+  {
+  "name": "EA",
+  "description": "The EA app for Windows is Electronic Arts’ all new, enhanced PC platform, where you can easily play your favorite games. The app provides a streamlined and optimized user interface that gets you into your games faster than ever before.",
+  "package": "ElectronicArts.EADesktop",
+  "category": "Gaming",
+  "icon": "images/732012.png",
+  "packman":"winget"
+  },
+  {
+  "name": "GOG",
+  "description": "GOG.com is a digital distribution platform – an online store with a curated selection of games, an optional gaming client giving you freedom of choice, and a vivid community of gamers. Hand-picking the best in gaming. Customer-first approach. Gamer-friendly platform.",
+  "package": "GOG.Galaxy",
+  "category": "Gaming",
+  "icon": "images/gog_galaxy_macos_bigsur_icon_190152.png",
+  "packman":"winget"
+  },
+  {
+  "name": "playnite",
+  "description": "Playnite is an open source video game library manager with one simple goal: To provide a unified interface for all of your games. Download. Windows 7 and newer supported Changelog.",
+  "package": "Playnite.Playnite",
+  "category": "Gaming",
+  "icon": "images/applogo.png",
+  "packman":"winget"
+  },
+  {
+  "name": "amazongames",
+  "description": "Amazon Games (formerly Amazon Game Studios) is an American video game company and division of the online retailing company Amazon that primarily focuses on publishing video games developed within the company's development divisions.",
+  "package": "Amazon.Games",
+  "category": "Gaming",
+  "icon": "images/games-float.png",
+  "packman":"winget"
+  },
+  {
+  "name": "GeForce",
+  "description": "NVIDIA GeForce NOW™ transforms your device into a powerful PC gaming rig. Gamers can play PC titles they already own or purchase new games from popular digital stores like Steam, Epic Games Store, Ubisoft Connect, and EA. Access 1500+ games, with more released every GFN Thursday.",
+  "package": "Nvidia.GeForceNow",
+  "category": "Gaming",
+  "icon": "images/d9yeb7n-e1c9d052-ef39-499a-b23d-6ad146356ed2.png",
+  "packman":"winget"
+  },
+  {
+  "name": "ubisoftconnect",
+  "description": "Ubisoft Connect is the ecosystem of players services for Ubisoft games across all platforms. It aims at giving the best environment for all players to enjoy their games and connect with each other whatever the device. Ubisoft Connect is a free service available on all devices.",
+  "package": "Ubisoft.Connect",
+  "category": "Gaming",
+  "icon": "images/Ubisoft_logo.svg.png",
+  "packman":"winget"
+  },
+  {
+  "name": "spotify",
+  "description": "Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world. Basic functions such as playing music are totally free, but you can also choose to upgrade to Spotify Premium.",
+  "package": "Spotify.Spotify",
+  "category": "Media Streaming",
+  "icon": "images/Spotify_icon.svg.png",
+  "packman":"winget"
+  },
+  {
+  "name": "vlc",
+  "description": "VLC is a multimedia player that can play most media files on most platforms. Its wide range of supported formats include multimedia files, DVDs, audio CDs, VCDs, and various streaming protocols.",
+  "package": "VideoLAN.VLC",
+  "category": "Media Players",
+  "icon": "images/VLC_Icon.svg.png",
+  "packman":"winget"
+  },
+  {
+    "name": "MPC-HC",
+    "description": "MPC-HC is an extremely light-weight, open source media player for Windows. It supports all common video and audio file formats available for playback.",
+    "package": "clsid2.mpc-hc",
+    "category": "Media Players",
+    "icon": "images/Media-mpc-hc-icon.png",
+    "packman":"winget"
+  },
+  {
+    "name": "Kodi",
+    "description": "Kodi is a free and feature-rich media center for various operating systems, consoles and TVs. With Kodi you can manage and play movies, photos and music.",
+    "package": "XBMCFoundation.Kodi",
+    "category": "Media Players",
+    "icon": "images/Kodi-logo-Thumbnail-light-transparent.png",
+    "packman":"winget"
+  },
+  {
+    "name": "Plex",
+    "description": "Plex is a global streaming media service and a client–server media player platform, made by Plex, Inc.",
+    "package": "Plex.Plex",
+    "category": "Media Players",
+    "icon": "images/plex.png",
+    "packman":"winget"
+  },
+  {
+    "name": "iTunes",
+    "description": "iTunes is a media player developed by Apple that also can be used to communicate with Apple mobile devices",
+    "package": "Apple.iTunes",
+    "category": "Media Players",
+    "icon": "images/1384061.png",
+    "packman":"winget"
+  },
+  {
+    "name": "ONLYOFFICE",
+    "description": "Create, view and edit text documents, spreadsheets and presentations of any size and complexity. Work on documents of most popular formats; DOCX, ODT, XLSX, ODS, CSV, PPTX, ODP, etc. Deal with multiple files within one and the same window thanks to the tab-based user interface.",
+    "package": "ONLYOFFICE.DesktopEditors",
+    "category": "Productivity",
+    "icon": "images/ONLYOFFICE_logo_(symbol).svg.png",
+    "packman":"winget"
+  },
+  {
+    "name": "Adobe Acrobat Reader DC",
+    "description": "Adobe Acrobat Reader DC software is the free, trusted global standard for viewing, printing, signing, sharing, and annotating PDFs. It's the only PDF viewer that can open and interact with all types of PDF content – including forms and multimedia.",
+    "package": "Adobe.Acrobat.Reader.32-bit",
+    "category": "Productivity",
+    "icon": "images/images.png",
+    "packman":"winget"
+  },
+  {
+    "name": "Foxit PhantomPDF",
+    "description": "PhantomPDF is the PDF Editor that enables PDF document accessibility for people with disabilities who use assistive technology to have access to information.",
+    "package": "Foxit.PhantomPDF",
+    "category": "Productivity",
+    "icon": "images/png-clipart-foxit-reader-6-foxit-software-pdf-eed-text-orange.png",
+    "packman":"winget"
+  },
+  {
+    "name": "Sumatra PDF",
+    "description": "Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) viewer for Windows.Sumatra PDF is powerful, small, portable and starts up very fast. Simplicity of the user interface has a high priority.",
+    "package": "SumatraPDF.SumatraPDF",
+    "category": "Productivity",
+    "icon": "images/Sumatra_PDF_logo.svg.png",
+    "packman":"winget"
+  },
+  {
+    "name": "Inkscape",
+    "description": "Inkscape is a free and open-source vector graphics editor used to create vector images, primarily in Scalable Vector Graphics (SVG) format. Other formats can be imported and exported.",
+    "package": "Inkscape.Inkscape",
+    "category": "Design",
+    "icon": "images/Inkscape_Logo.svg.png",
+    "packman":"winget"
+  },
+  {
+    "name": "SketchUp",
+    "description": "3D modeling software for everyone",
+    "package": "Trimble.SketchUp.Pro.2022",
+    "category": "Design",
+    "icon": "images/00000006322.png",
+    "packman":"winget"
+  },
+  {
+    "name": "Sweet Home 3D",
+    "description": "Sweet Home 3D is a free interior design application that helps you draw the plan of your house, arrange furniture on it and visit the results in 3D.",
+    "package": "eTeks.SweetHome3D",
+    "category": "Design",
+    "icon": "images/48077292-52581780-e1e7-11e8-88df-04bf015e6cc5.png",
+    "packman":"winget"
+  },
+  {
+    "name": "FreeCAD",
+    "description": "A free and opensource multiplatform 3D parametric modeler.",
+    "package": "FreeCAD.FreeCAD",
+    "category": "Design",
+    "icon": "images/freecad-icon.png",
+    "packman":"winget"
+  },
+  {
+    "name": "OpenSCAD",
+    "description": "OpenSCAD is software for creating solid 3D CAD objects.",
+    "package": "OpenSCAD.OpenSCAD",
+    "category": "Design",
+    "icon": "images/Openscad.svg.png",
+    "packman":"winget"
+  },
+  {
+    "name": "MeshLab",
+    "description": "MeshLab is an open source, portable, and extensible system for the processing and editing of unstructured large 3D triangular meshes. It is aimed to help the processing of the typical not-so-small unstructured models arising in 3D scanning, providing a set of tools for editing, cleaning, healing, inspecting, rendering and converting this kind of meshes.",
+    "package": "CNRISTI.MeshLab",
+    "category": "Design",
+    "icon": "images/687474703a2f2f7777772e6d6573686c61622e6e65742f696d672f6d6573686c61624c6f676f2e706e67.png",
+    "packman":"winget"
+  },
+  {
+    "name": "Ultimaker Cura",
+    "description": "Trusted by millions of users, Ultimaker Cura is the world’s most popular 3D printing software. Prepare prints with a few clicks, integrate with CAD software for an easier workflow, or dive into custom settings for in-depth control.",
+    "package": "Ultimaker.Cura",
+    "category": "3D Printing",
+    "icon": "images/Logo_for_Cura_Software.png",
+    "packman":"winget"
+  },
+  {
+    "name": "PrusaSlicer",
+    "description": "PrusaSlicer (formerly known as Slic3r Prusa Edition or Slic3r PE) is our own in-house developed slicer software based on the open-source project Slic3r. PrusaSlicer is an open-source, feature-rich, frequently updated tool that contains everything you need to export the perfect print files for your Original Prusa 3D printer.",
+    "package": "Prusa3D.PrusaSlicer",
+    "category": "3D Printing",
+    "icon": "images/PrusaSlicer_192px.png",
+    "packman":"winget"
+  },
+  {
+    "name": "POVRay",
+    "description": "Free ray-tracing program for creating three-dimensional graphics.",
+    "package": "PersistenceOfVisionRaytracer.POVRay",
+    "category": "3D Graphics",
+    "icon": "images/200px-POVExporterLogo.png",
+    "packman":"winget"
+  },
+  {
+    "name": "GnuCash",
+    "description": "Personal and small-business financial-accounting software",
+    "package": "GnuCash.GnuCash",
+    "category": "Finance",
+    "icon": "images/png-transparent-gnucash-accounting-software-free-software-finance-stub-miscellaneous-text-personal-finance-thumbnail.png",
+    "packman":"winget"
+  },
+  {
+    "name": "HomeBank",
+    "description": "HomeBank is a free, open source, personal finance and money management application that can be used to manage your daily and monthly finance details easily as well as effectively. It has built-in powerful filtering tools and graphs that will help you to analyze your everyday transactions. ",
+    "package": "HomeBank.HomeBank",
+    "category": "Finance",
+    "icon": "images/unnamed (2).png",
+    "packman":"winget"
+  },
+  {
+    "name": "KMyMoney",
+    "description": "A Personal Finance Manager for humans.",
+    "package": "KDE.kmymoney",
+    "category": "Finance",
+    "icon": "images/4dde767bbec52aeaff7d5b2c3ebeae4d9895.png",
+    "packman":"winget"
+  },
+  {
+    "name": "ocenaudio",
+    "description": "ocenaudio is a cross-platform, easy to use, fast and functional audio editor.",
+    "package": "Ocenaudio.Ocenaudio",
+    "category": "Audio Editing",
+    "icon": "images/Ocenaudio-Icon.png",
+    "packman":"winget"
+  },
+  {
+    "name": "EaseUS Todo Backup",
+    "description": "EaseUS Todo Backup Home covers all backup types: individual files and folders, whole drives or partitions, or a full system backup. What's more, It supports to 'restore system to dissimilar hardware', which is an efficient way for you to migrate the current system to dissimilar hardware with all necessities saved on the system partition.",
+    "package": "EaseUS.TodoBackup",
+    "category": "Backup",
+    "icon": "images/1612772936_easeus-todo-backup.png",
+    "packman":"winget"
+  }
+  ]
+  
